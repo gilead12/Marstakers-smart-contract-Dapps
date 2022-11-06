@@ -10,7 +10,7 @@ Marstakers is designed in such a way that as stakers continue to stake, the pric
 
 To Deploy this contract on binance smartchain First you need to deploy on testnet before deploying on mainnet.
 
-You need to download window or metamask Extension to able to deploy it,
+You need to download window or mac chrome metamask Extension to be able to deploy it,
 
 And you need BNB fauect that you get from here https://testnet.binance.org/faucet-smart
 
