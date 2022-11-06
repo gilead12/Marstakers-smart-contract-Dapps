@@ -174,8 +174,8 @@ contract Token is ERC20 {
     
 
     constructor() public {
-        _name = "Baby Chick";
-        _symbol = "BABYCHICK";
+        _name = "Marstakers";
+        _symbol = "Mars";
         _decimals = 18;
         _limitSupply = 500000e18;
     }
@@ -200,7 +200,7 @@ contract Token is ERC20 {
     }
 }
 
-contract BabyChick is Token {
+contract Marsakers is Token {
     
     uint256 public totalUsers; 
     uint256 public totalStaked; 
