@@ -14,6 +14,6 @@ You need to download window or metamask Extension to able to deploy it,
 
 And you need BNB fauect that you get from here https://testnet.binance.org/faucet-smart
 
-After that you need to edit this smart contract on any code editor or head over to https://remix.ethereum.org
-
+After that you need to edit this smart contract on any code editor or head over to  https://remix.ethereum.org
+before deploying on Binance smart chain testnet
 
